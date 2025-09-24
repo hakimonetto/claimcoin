@@ -2,9 +2,10 @@
   "name": "Claim Coin",
   "symbol": "CLAIM",
   "description": "A coin of claim everything. You don’t own it… until we claim it.",
-  "image": "https://raw.githubusercontent.com/hakimnetto/claimcoin/main/claim.png",
+  "image": "https://raw.githubusercontent.com/hakimnetto/claimcoin/main/claim.png"
   "extensions": {
     "website": "https://example.com",
     "twitter": "https://twitter.com/claimcoin"
   }
 }
+
